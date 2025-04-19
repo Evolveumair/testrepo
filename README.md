@@ -1,5 +1,5 @@
 # django-todo
-AAA simple todo app built with django and it is nothing but to test the git funcationality.
+A simple todo app built with django and it is nothing but to test the git funcationality.
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
